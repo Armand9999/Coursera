@@ -1,7 +1,7 @@
 class Class:
-  def __init__(self):
-    
-  def function(self, x):
+  def __init__(self, x):
+    sefl.x = x
+  def function(self):
     y = self.x.split()
     count = 0
     dict = {}
@@ -9,4 +9,4 @@ class Class:
       if word.isalpha():
         count = y.count(word)
         dict[word] = count
-    return dict
+   return dict
