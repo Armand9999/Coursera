@@ -9,4 +9,4 @@ class Class:
       if word.isalpha():
         count = y.count(word)
         dict[word] = count
-   return dict
+  return dict
