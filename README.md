@@ -1,2 +1,1 @@
-# Coursera
-# This is the first repository I've created
+I am editing the README file. This is my first repository I have ever created
